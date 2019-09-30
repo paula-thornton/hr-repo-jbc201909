@@ -5,4 +5,5 @@ Start: May 1, 2017
 
 Exerienced software instructor with deep knowledge of the following software products:
 - Micronsoft C#.Net
-- Git & GitHub.
+- Git & GitHub
+- Java
