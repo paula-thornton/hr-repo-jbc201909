@@ -7,3 +7,4 @@ Exerienced software instructor with deep knowledge of the following software pro
 - Micronsoft C#.Net
 - Git & GitHub
 - Java
+- MySQL
